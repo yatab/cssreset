@@ -1,1 +1,1 @@
-# yui3-cssreset
+リセットCSSまとめ
