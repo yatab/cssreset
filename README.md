@@ -1,1 +1,1 @@
-リセット系CSSまとめ
+reset css
